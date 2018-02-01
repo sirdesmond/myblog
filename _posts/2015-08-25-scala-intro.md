@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scala intro"
-date:   2015-08-25 
+date:   2018-01-31
 categories: tech
 ---
 A brief intro to scala world
