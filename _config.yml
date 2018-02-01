@@ -4,7 +4,7 @@ email: desmond.appiah@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 Keeping track of a few reflections and what goes on in hammock zones
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http:/dappiahkubi.com" # the base hostname & protocol for your site
+url: "http://www.dappiahkubi.com" # the base hostname & protocol for your site
 twitter_username: sirdesmond
 github_username:  sirdesmond
 
