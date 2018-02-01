@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Second Post"
+title:  "Scala intro"
 date:   2015-08-25 
 categories: tech
 ---
-Hi there - another post!!
+A brief intro to scala world
